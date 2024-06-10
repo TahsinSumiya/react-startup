@@ -1,0 +1,23 @@
+.country{
+    border: 5px solid rgb(157, 121, 192);
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+    width: auto;
+}
+button{
+    border: 2px solid rgb(157, 121, 192);
+    background-color: rgb(187, 220, 248);
+    color: black;
+    width: 220px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 2px;
+}
+button:hover{
+    background-color: rgb(131, 186, 235);
+}
+
+.visited{
+    background: rgb(248, 211, 154);
+}
